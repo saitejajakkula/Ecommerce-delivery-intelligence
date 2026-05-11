@@ -215,4 +215,4 @@ This project demonstrates how data analytics and business intelligence can uncov
 Business Analyst | Data Analytics | Strategy & Insights
 
 LinkedIn: [www.linkedin.com/in/saiteja-jakkula](http://www.linkedin.com/in/saiteja-jakkula)
-GitHub: github.com/yourusername
+
