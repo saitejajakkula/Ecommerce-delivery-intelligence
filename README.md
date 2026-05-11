@@ -154,18 +154,22 @@ Automated delay notifications and compensation workflows.
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tools & Skills
 
 * HTML5
 * CSS3
 * JavaScript
 * Chart.js
 * Data Visualization
+
+# All with the help of AI Claude
+  
 * Business Analysis
 * KPI Reporting
 * Root Cause Analysis
 * Data Storytelling
 
+# AI + Human
 ---
 
 # 📂 Dashboard Features
