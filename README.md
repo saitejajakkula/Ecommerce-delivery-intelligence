@@ -213,10 +213,26 @@ This project demonstrates how data analytics and business intelligence can uncov
 
 ---
 
-# 👤 Author
+# 👨‍💼 About Me
 
-**Saiteja Jakkula**
-Business Analyst | Data Analytics | Strategy & Insights
+Hi, I’m Saiteja Jakkula 👋
 
-LinkedIn: [www.linkedin.com/in/saiteja-jakkula](http://www.linkedin.com/in/saiteja-jakkula)
+I’m an aspiring Business Analyst interested in:
 
+- Business Analytics
+- Market Research
+- Strategy Analysis
+- Data-Driven Decision Making
+
+I enjoy solving business problems using structured thinking, data analysis, and Human + AI workflows.
+
+---
+
+# 🔗 Connect With Me
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/jakkula-saiteja/
+
+---
+
+⭐ If you found this project useful, feel free to give this repository a star and connect with me on LinkedIn.
