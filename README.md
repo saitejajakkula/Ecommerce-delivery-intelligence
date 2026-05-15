@@ -185,6 +185,8 @@ Automated delay notifications and compensation workflows.
 
 ---
 
+# 📷 Dashboard Preview
+
 # 🎯 Business Analyst Skills Demonstrated
 
 * KPI Analysis
