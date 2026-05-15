@@ -216,7 +216,7 @@ This project demonstrates how data analytics and business intelligence can uncov
 # Project Link
 
 🔗 Live Dashboard:  
-https://saitejajakkula.github.io/E-commerce-sales-profitability-performance-analysis-dashboard/
+https://saitejajakkula.github.io/E-commerce_delivery_intelligence/
 
 ---
 
